@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #505050;
+}
+
+input {
+  position: absolute;
+  color: #fff;
+}
+
+#wrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+#stage {
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+}
